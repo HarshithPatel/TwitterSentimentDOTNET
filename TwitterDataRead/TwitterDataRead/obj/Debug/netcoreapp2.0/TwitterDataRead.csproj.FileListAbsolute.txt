@@ -1,0 +1,13 @@
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.csprojResolveAssemblyReference.cache
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.csproj.CoreCompileInputs.cache
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.AssemblyInfoInputs.cache
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.AssemblyInfo.cs
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.dll.config
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.deps.json
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.runtimeconfig.json
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.runtimeconfig.dev.json
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.dll
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/bin/Debug/netcoreapp2.0/TwitterDataRead.pdb
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.dll
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.pdb
+/Users/harshithpatel/PersonalitySentiment/TwitterRead/TwitterDataRead/TwitterDataRead/obj/Debug/netcoreapp2.0/TwitterDataRead.dll.config
